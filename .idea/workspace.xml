@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0ea86ccf-3af2-45ae-85ef-e7939dfa45a8" name="Changes" comment="Segundo test ok">
+    <list default="true" id="0ea86ccf-3af2-45ae-85ef-e7939dfa45a8" name="Changes" comment="Tercer test ok">
       <change beforePath="$PROJECT_DIR$/tests/TestCoche.java" beforeDir="false" afterPath="$PROJECT_DIR$/tests/TestCoche.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -54,7 +54,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.TestCoche.test_al_acelerar_un_coche_su_velocidad_es_aumenta">
+  <component name="RunManager" selected="JUnit.TestCoche">
     <configuration name="TestCoche" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="TDD Practica Coche" />
       <option name="PACKAGE_NAME" value="" />
@@ -86,9 +86,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.TestCoche" />
         <item itemvalue="JUnit.TestCoche.test_al_acelerar_un_coche_su_velocidad_es_aumenta" />
         <item itemvalue="JUnit.TestCoche.test_al_crear_un_coche_su_velocidad_es_cero" />
-        <item itemvalue="JUnit.TestCoche" />
       </list>
     </recent_temporary>
   </component>
@@ -100,7 +100,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1680183982919</updated>
-      <workItem from="1680183985115" duration="1882000" />
+      <workItem from="1680183985115" duration="2198000" />
     </task>
     <task id="LOCAL-00001" summary="Creación de proyecto y TestCoche">
       <created>1680184532059</created>
@@ -130,7 +130,14 @@
       <option name="project" value="LOCAL" />
       <updated>1680185704863</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Tercer test ok">
+      <created>1680186149839</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1680186149839</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -152,6 +159,7 @@
     <MESSAGE value="Test crear coche y Clase Coche" />
     <MESSAGE value="Primer test ok" />
     <MESSAGE value="Segundo test ok" />
-    <option name="LAST_COMMIT_MESSAGE" value="Segundo test ok" />
+    <MESSAGE value="Tercer test ok" />
+    <option name="LAST_COMMIT_MESSAGE" value="Tercer test ok" />
   </component>
 </project>
