@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0ea86ccf-3af2-45ae-85ef-e7939dfa45a8" name="Changes" comment="Creación de proyecto y TestCoche">
-      <change afterPath="$PROJECT_DIR$/src/Coche.java" afterDir="false" />
+    <list default="true" id="0ea86ccf-3af2-45ae-85ef-e7939dfa45a8" name="Changes" comment="Primer test ok">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/TDD Practica Coche.iml" beforeDir="false" afterPath="$PROJECT_DIR$/TDD Practica Coche.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Coche.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Coche.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/tests/TestCoche.java" beforeDir="false" afterPath="$PROJECT_DIR$/tests/TestCoche.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -57,7 +57,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="JUnit.TestCoche.test_al_crear_un_coche_su_velocidad_es_cero">
     <configuration name="TestCoche" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="TDD Practica Coche" />
       <option name="PACKAGE_NAME" value="" />
@@ -67,8 +67,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TestCoche.test_al_crear_un_coche_su_velocidad_es_cero" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="TDD Practica Coche" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestCoche" />
+      <option name="METHOD_NAME" value="test_al_crear_un_coche_su_velocidad_es_cero" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.TestCoche.test_al_crear_un_coche_su_velocidad_es_cero" />
         <item itemvalue="JUnit.TestCoche" />
       </list>
     </recent_temporary>
@@ -81,7 +92,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1680183982919</updated>
-      <workItem from="1680183985115" duration="939000" />
+      <workItem from="1680183985115" duration="1561000" />
     </task>
     <task id="LOCAL-00001" summary="Creación de proyecto y TestCoche">
       <created>1680184532059</created>
@@ -90,7 +101,21 @@
       <option name="project" value="LOCAL" />
       <updated>1680184532059</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Test crear coche y Clase Coche">
+      <created>1680185015920</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1680185015920</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Primer test ok">
+      <created>1680185163475</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1680185163475</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -109,6 +134,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Creación de proyecto y TestCoche" />
-    <option name="LAST_COMMIT_MESSAGE" value="Creación de proyecto y TestCoche" />
+    <MESSAGE value="Test crear coche y Clase Coche" />
+    <MESSAGE value="Primer test ok" />
+    <option name="LAST_COMMIT_MESSAGE" value="Primer test ok" />
   </component>
 </project>
