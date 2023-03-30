@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0ea86ccf-3af2-45ae-85ef-e7939dfa45a8" name="Changes" comment="Quinto test ok">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="0ea86ccf-3af2-45ae-85ef-e7939dfa45a8" name="Changes" comment="Nombre de métodos" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -116,7 +114,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1680183982919</updated>
-      <workItem from="1680183985115" duration="3279000" />
+      <workItem from="1680183985115" duration="3658000" />
     </task>
     <task id="LOCAL-00001" summary="Creación de proyecto y TestCoche">
       <created>1680184532059</created>
@@ -167,7 +165,14 @@
       <option name="project" value="LOCAL" />
       <updated>1680186765232</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Nombre de métodos">
+      <created>1680187669306</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1680187669306</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -192,6 +197,7 @@
     <MESSAGE value="Tercer test ok" />
     <MESSAGE value="Cuarto test ok" />
     <MESSAGE value="Quinto test ok" />
-    <option name="LAST_COMMIT_MESSAGE" value="Quinto test ok" />
+    <MESSAGE value="Nombre de métodos" />
+    <option name="LAST_COMMIT_MESSAGE" value="Nombre de métodos" />
   </component>
 </project>
